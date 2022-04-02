@@ -16,10 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from gestion.views import home
-from authentification.views import page_inscription
+from authentification.views import page_inscription, page_login, deconnexion
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home, name='accueil'),
-    path('inscription/', page_inscription, name='inscription')
+    path('inscription/', page_inscription, name='page_inscription'),
+    path('login/', page_login, name='page_login'),
+    path('deconnexion/', deconnexion, name='deconnexion'),
 ]

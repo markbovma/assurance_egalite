@@ -128,3 +128,4 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL = 'accueil'
+LOGIN_URL = 'page_login' #@login_required renvoie vers ce lien pour les utilisateurs non loggé 
