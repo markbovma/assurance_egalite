@@ -56,7 +56,9 @@ ROOT_URLCONF = 'assurance_egalite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            BASE_DIR.joinpath('templates'), # permet de joindre les templates de base
+            ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
