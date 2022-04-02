@@ -1,0 +1,12 @@
+{% extends 'bases.html' %}
+
+{% block titre %}inscription{% endblock titre %}
+
+
+{% block contenu %}
+<form method='post' action=''>
+	{{ form.as_p }}
+	{% csrf_token %}
+	<button type='submit'>Valider</button>
+</form>
+{% endblock contenu %}

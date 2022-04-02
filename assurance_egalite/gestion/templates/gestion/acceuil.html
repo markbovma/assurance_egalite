@@ -1,0 +1,10 @@
+{% extends 'bases.html' %}
+
+{% block titre %}Accueil{% endblock %}
+
+{% block contenu %}
+
+<h1>Bienvenue {{ request.user }} à au gestionnaire de compte de l'association assurance et egalite</h1>
+<p><a href="{% url 'deconnexion' %}">deconnexion</a></p>
+
+{% endblock %}

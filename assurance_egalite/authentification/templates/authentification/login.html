@@ -1,0 +1,13 @@
+{% extends 'bases.html' %}
+
+{% block titre %}inscription{% endblock titre %}
+
+
+{% block contenu %}
+<form method='post' action=''>
+	{{ form.as_p }}
+	{% csrf_token %}
+	<button type='submit'>Se connecter</button>
+</form>
+<p><a href="{% url 'page_inscription' %}">S'incrire</a></p>
+{% endblock contenu %}
