@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg849"
+   inkscape:export-filename="/home/samsepiol/montage/wire_fames/assurance_egalite/logo_acceuil_rose.png"
+   inkscape:export-xdpi="3.9359999"
+   inkscape:export-ydpi="3.9359999"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="dessin_maison.svg">
+  <defs
+     id="defs843" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.675"
+     inkscape:cx="170.37037"
+     inkscape:cy="555.55556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1458"
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:0.270982"
+       inkscape:transform-center-x="-0.092789054"
+       inkscape:transform-center-y="-18.804312"
+       d="m 217.20866,129.60552 c -84.55272,1.38417 -14.02002,0.92325 -165.120383,-0.25011 -35.196893,-0.27332 35.888557,-91.012381 83.618843,-91.938139 49.39791,-0.958101 130.04845,91.393519 81.50154,92.188249 z"
+       sodipodi:nodetypes="ssss" />
+    <path
+       id="rect1460"
+       style="fill:#2d2d2d;fill-opacity:1;stroke-width:0.999999"
+       d="M 263.24609 521.375 C 239.85942 521.375 221.03125 540.20119 221.03125 563.58789 L 221.03125 829.97461 C 221.03125 853.36131 239.85942 872.18945 263.24609 872.18945 L 417.57031 872.18945 C 416.27862 868.12986 415.57617 863.80321 415.57617 859.30469 L 415.57617 703.37695 C 415.57617 679.99029 434.4024 661.16211 457.78906 661.16211 L 588.83398 661.16211 C 612.22064 661.16211 631.04687 679.99029 631.04688 703.37695 L 631.04688 859.30469 C 631.04688 863.80321 630.34443 868.12986 629.05273 872.18945 L 773.98438 872.18945 C 797.37107 872.18945 816.19727 853.36131 816.19727 829.97461 L 816.19727 563.58789 C 816.19727 540.20119 797.37107 521.375 773.98438 521.375 L 263.24609 521.375 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
